@@ -1,0 +1,13 @@
+h1{
+	font-family: 'Fjalla One', sans-serif;
+	color: red;
+}
+a img:first-child{
+	height: 30px;
+	margin:10px;
+}
+body>div{
+	position: absolute;
+	left: 1090px;
+	top: 20px;
+}
